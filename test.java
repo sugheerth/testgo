@@ -4,6 +4,6 @@ public static void main(){
   chk.show();
   int num = 0 ;
   Map<String,String> map = new HashMap<String,String>();
-  Iterator<?> it = map.keyset.iterator();
+  Iterator<?> it = map.keyset().iterator();
   
 }
